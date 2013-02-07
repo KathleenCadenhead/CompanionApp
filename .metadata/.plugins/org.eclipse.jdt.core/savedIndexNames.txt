@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+C:\Users\Katie\Documents\GitHub\CompanionApp\.metadata\.plugins\org.eclipse.jdt.core
+1498975975.index
