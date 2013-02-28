@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lerpzapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.lerpzapp.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.lerpzapp.AngryBotsProfile"
+            android:label="@string/title_activity_angrybots_profile" >
+        </activity>
+        <activity
+            android:name="com.example.lerpzapp.Leaderboard"
+            android:label="@string/title_activity_leaderboard" >
+        </activity>
+        <activity
+            android:name="com.example.lerpzapp.Achievements"
+            android:label="@string/title_activity_achievements" >
+        </activity>
+        <activity
+            android:name="com.example.lerpzapp.Server"
+            android:label="@string/title_activity_options" >
+        </activity>
+        <activity
+            android:name="com.example.lerpzapp.Map"
+            android:label="@string/title_activity_edit" >
+        </activity>
+        <activity
+            android:name="com.example.lerpzapp.Settings"
+            android:label="@string/title_activity_tab_sample" >
+        </activity>
+        <activity
+            android:name="com.example.lerpzapp.MiniGame"
+            android:label="@string/title_activity_mini_game" >
+        </activity>
+        <activity
+            android:name="com.example.lerpzapp.AddPoint"
+            android:label="@string/title_activity_add_point" >
+        </activity>
+    </application>
+
+</manifest>

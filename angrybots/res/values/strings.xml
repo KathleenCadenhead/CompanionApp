@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">angrybotsapp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="AngryBots_Profile">Angry Bots Profile</string>
+    <string name="Leaderboard">Leaderboard</string>
+    <string name="Achievements">Achievements</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_angrybots_profile">AngrybotsProfile</string>
+    <string name="title_activity_leaderboard">Leaderboard</string>
+    <string name="title_activity_Achievements">Achievements</string>
+    <string name="title_activity_achievements">Achievements</string>
+    <string name="lerpzprofile">LerpzProfile</string>
+    <string name="title_activity_options">Server</string>
+    <string name="title_activity_edit">Map</string>
+    <string name="title_activity_tab_sample">Settings</string>
+    <string name="title_activity_mini_game">MiniGame</string>
+    <string name="title_activity_add_point">AddPoint</string>
+
+</resources>

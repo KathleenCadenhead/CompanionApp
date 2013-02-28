@@ -1,0 +1,25 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MiniGame" 
+    android:background="@drawable/backgroundimage">
+    
+    <Button
+          android:id="@+id/button"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_x="50dp"
+          android:layout_y="265dp"
+          android:background="@drawable/honeycomb" />
+
+      <TextView
+          android:id="@+id/tv"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Points: 0"
+          android:textSize="50sp" />
+
+      
+
+</AbsoluteLayout>
