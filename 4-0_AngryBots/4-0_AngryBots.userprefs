@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Movement\PlayerMoveController.js">
+    <Files>
+      <File FileName="Assets\Scripts\Movement\PlayerMoveController.js" Line="42" Column="36" />
+      <File FileName="Assets\Scripts\Weapons\AutoFire.js" Line="108" Column="4" />
+      <File FileName="Assets\Scripts\Weapons\Health.js" Line="105" Column="6" />
+      <File FileName="Assets\Scripts\Misc\login.js" Line="2" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
